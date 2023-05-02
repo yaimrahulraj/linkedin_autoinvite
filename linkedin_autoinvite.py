@@ -21,7 +21,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 #User Input
-username = "enter-your mail-id"
+username = "enter-your-mail-id"
 password = "enter-your-password"
 keywords = ["talent acquisition"]
 message = """Hi,
@@ -29,9 +29,9 @@ message = """Hi,
 I hope you're doing well. I'm excited to explore new opportunities and believe my skills and experience would make me a valuable asset to your team. Please let me know if you have any potential opportunities available.
 
 Thanks,
-Your-name"""
+your-name"""
 # Number of requests you want to send
-num_req = 100
+num_req = 1
 
 
 # In[3]:
