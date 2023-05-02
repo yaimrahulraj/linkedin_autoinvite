@@ -8,3 +8,4 @@ Steps to use the script:
 4. The script will automatically install all the dependencies and requiremnts
 5. Double click on the "run.bat" file
 6. Report, if you face any issues.
+7. This Bot is tested on Python 3.11.2 and Chrome browser 112.0.5615.138 version
